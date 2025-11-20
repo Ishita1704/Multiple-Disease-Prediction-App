@@ -11,3 +11,5 @@ Diabetes Prediction: Predicts the risk of diabetes based on key health indicator
 Intuitive Interface: Easy-to-use forms powered by Streamlit (or similar framework) for inputting health parameters.
 
 Clear Results: Displays the prediction outcome (e.g., "High Risk," "Low Risk") for each disease.
+
+Project link: https://medipredictorapp.streamlit.app/
